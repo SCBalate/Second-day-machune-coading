@@ -3,7 +3,7 @@ import HabitList from './Components/HabitList';
 import { useState } from 'react';
 import AddHabitForm from './Components/HabitForm';
 import ArchivedHabits from './Components/ArchivedHabits';
-import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
+
 
 function App() {
 
